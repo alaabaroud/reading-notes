@@ -8,3 +8,5 @@ how to develop a growth mindset for a *better life*?
 - ***accept challenges.***
 - ***give some effort.***
 - ***learn from criticism.***
+
+[for more info](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
