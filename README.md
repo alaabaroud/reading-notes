@@ -1,0 +1,2 @@
+# reading-notes
+growth mindset
