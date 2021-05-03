@@ -5,6 +5,6 @@ table of content:
 | file name      | link |
 | ----------- | ----------- |
 | file1      | [file1](file1.md)       |
-| lab1  | [lab1](https://replit.com/@AlaaBaroud/reading-notes#lab1)       |
+| lab1  | [lab1](lab1.md)       |
 
 
