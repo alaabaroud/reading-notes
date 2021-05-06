@@ -7,8 +7,8 @@ table of content:
 | file1      | [file1](file1.md)       |
 | lab1  | [lab1](lab1.md)       |
 |read2| [read2](read2.md) |
-|read03.md| [read03.md](read03.md) |
-|read03b| [read03b.md](read03)|
-|read04|[read04.md](read04)|
-|read05|[read05.md](read05)|
+|read03.md| [read03](read03.md) |
+|read03b| [read03b](read03.md)|
+|read04|[read04](read04.md) |
+|read05|[read05](read05.md) |
 
