@@ -34,4 +34,4 @@ A while statement executes its statements as long as a specified condition evalu
 
 while (condition)
 
-  statement
+  statement.
