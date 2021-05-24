@@ -15,9 +15,8 @@ table of content:
 |read06|[read06](read06.md) |
 
 201 course:
-| file name      | link |
+| file name | link |
 | ----------- | ----------- |
-
 |class-01.md|[ class01](class-01.md)|
 |class-02.md|[class02](class-02.md)|
 
