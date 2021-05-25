@@ -3,7 +3,7 @@
 - HTML elements are used to divide the webpage into headings, paragraphs.. and so on.
 - they also can make some changes in the text such as bold, italic, emphasis.
 - headings starts from h1 all the way to h6.
-- we can make paragraphs by adding (<p> </p>)
+- we can make paragraphs by adding p
 # CSS
 
 - css make boxes for the HTML elements and we use it to style the HTML and let it be more beautiful and attractive.
