@@ -23,4 +23,5 @@ table of content:
 |class-02|[class-02.md](class02)|
 |read3|[read3.md](read3)|
 |class04|[class04.md](class04)|
+|read06|[read06.md](read06)|
 
