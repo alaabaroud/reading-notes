@@ -21,3 +21,12 @@ write this command on your terminal:
     --------------------------------------
 
 
+# Pair programming. 
+6 reasons why pair programming is good:
+- takes longer time, but gives a higher quality product.
+- it helps to make developers engage and collaborate.
+- to learn more from others.
+- it develops the programmers social skills as well as programming skills.
+- it will make the programmers ready for job interviews.
+- and make the programmer ready for work enviroment.
+
