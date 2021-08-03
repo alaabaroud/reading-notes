@@ -46,6 +46,8 @@ table of content:
 |read5|[read5](301/read5.md)|
 |read6|[read6](301/read6.md)|
 |read7|[read7](301/read7.md)|
+|read8|[read8](301/read8.md)|
+
 
 
 
