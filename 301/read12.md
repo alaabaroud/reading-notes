@@ -11,3 +11,14 @@
 |  uses SQL ( structured query language )  |      UnQL (Unstructured Query Language)    |
 
 ---------------------------
+ 
+ - Example of SQL Database:
+    -  MySQL Community Edition
+    - MS-SQL Server Express Edition
+    - Oracle Express Edition
+
+- NoSQL Database Examples:
+    - MongoDB
+    -  CouchDB
+    - Redis
+--------------------------------
