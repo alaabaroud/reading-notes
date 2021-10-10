@@ -56,9 +56,11 @@ table of content:
 401 course :
 
 
-| file name | link |
-| ----------- | ----------- |
-|read1|[read1](401/read1.md)|
+
+| read no.     | file name | link    |
+| :---        |    :----:   |          ---: |
+| read 1| Java Basics |[JavaBasics](401/JavaBasics.md)  |
+| read 2|  ArraysLoopsImports|[ ArraysLoopsImports](401/ ArraysLoopsImports.md)|
 
 
 
