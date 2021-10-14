@@ -3,9 +3,13 @@
  Q- Explain what is the bigO ? 
  A- it is a way to calculate and manage time and space complexities in each function, it depends on 4 things: the size of the input, Units of Measurement, Orders of Growth, and Best Case, Worst Case, and Average Case.
 
- Q- what is a linked lists?
- A- it is a data structure and collection/series of nodes that each on of it is connected to the one besude it.
+ Q- what is the data Structure in software world? 
+ A- things like variables, arrays and so on are cosidered as types of data structure, and we use them to make our code organized and readable.
 
+ Q- what is a linked lists?
+ A- it is a data structure and collection/series of nodes that each on of it is connected to the one beside it. it is also considered as linear data structures, that means it works is sequence (in order).
+ Q- are linked lists similar to arrays? 
+ A-we can say they are similar but in one aspect whick is that the order of itmes matters alot. But the defference betweet them is the way they hold data in memory, arrays takes bytes allocated in one place while linked lists will allocate them in deffirent places in the PC
  Q- what does the terms singly and doubly are refered to? 
  A- they are the types of linked lists, Singly means that all nodes have one reference. on the other hand Doubly means that it have reference to the previous nodes and the next nodes.
 
