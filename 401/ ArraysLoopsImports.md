@@ -12,7 +12,7 @@
  - import javax.swing.JOptionPane;  when using this import,only one class is visible 
 
  - No import needed.
- 
+
  there are many common imports as well and here are 3 of them from https://perso.ensta-paris.fr/:
  
  import java.awt.*;   this one imports everything at one time.
@@ -28,6 +28,11 @@
 
 
   **looping** means to make a feature run until it finally evaluates to false (end of condition) which means that one opperation will work on until it reaches the end of the elements: 
+
+   ![loops](assets/Loop.png)
+
+   (image from geeksforgeeks)
+
   in Java there are 4 types of loops: 
 
  -  for loop:
