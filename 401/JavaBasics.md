@@ -44,9 +44,11 @@ there are two kinds of data types:
 ### Control Flow Statements
  are mainly the way we loop or make decisions and conditions to code. 
  there are many ways to loop, as in Javascript like for loop, while loop... and the if statement that allow us to make conditions.
+ 
  ![control flow](assets/dart-control.png)
 
 
 **Compiling** is to convert code from human code to the  machine (01) language. Any error in the code wont allow the program to compile.
+
  ![control flow](assets/Compiler.jpg)
 
