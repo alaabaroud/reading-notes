@@ -64,6 +64,8 @@ table of content:
 | read 3 | maps Primitives File IO |[mapsPrimitivesFileIO](401/mapsPrimitivesFileIO.md)  |
 | read 4| OOP |[OOP](401/OOP.md)  |
 | read 5| linked lists |[linked lists](401/LinkedLists.md)  |
+| read | inheritance and interface |[inheritance and interface](401/inheritanceiiterfaces.md)  |
+
 
 
 
