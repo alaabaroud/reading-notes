@@ -31,6 +31,6 @@ Post-order: (left to  root)
 in which means that the left side will be the first to look for.
 --------------------------
 
- going through each level of the tree node-by-node Is ***Breadth First traversal *** and it uses a queue.
+ going through each level of the tree node-by-node Is ***Breadth First traversal*** and it uses a queue.
  
  
