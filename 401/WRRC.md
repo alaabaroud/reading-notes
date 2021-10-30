@@ -61,13 +61,5 @@ The `HttpUrlConnection` class allows us to perform basic HTTP requests without t
 8. Reading the Response on Failed Requests.
 9. Building the Full Response.
 
-<hr>
-<br>
 
-**Sources**
 
-- Things I Brushed Up On This Week: The HTTP Request Lifecycle / Daniel Golant.
-
-- Do a Simple HTTP Request in Java / baeldung.
-
-**Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)
